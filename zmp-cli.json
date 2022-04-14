@@ -1,0 +1,18 @@
+{
+  "cwd": "C:\\Users\\Admin\\Desktop\\ZMP",
+  "newProject": true,
+  "name": "ZMP",
+  "framework": "react",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false,
+    "useUiKits": false
+  },
+  "customBuild": false,
+  "includeTailwind": false
+}
